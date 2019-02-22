@@ -11,6 +11,7 @@ library(ggplot2)
 #setwd("/Users/rpanal/Documents/R/rtestprojs")
 #setwd("C:/Users/chaos/OneDrive/Documents/rprojects/rtestprojs")
 
+path <- file.path("~", "rprojects", "rtestprojs")
 gskey <- "1w4awm9PWPFBjlN_Uijd2vmg3_bAxczmHiss9MJsLuv8"
 PL_list <- gs_key(gskey)
 PL <- gs_read(PL_list)
