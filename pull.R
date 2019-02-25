@@ -1,7 +1,7 @@
 #install.packages("gapminder")
 #install.packages("googlesheets")
 #install.packages("dplyr")
-#ga0pinstall.packages("ggplot2")
+#install.packages("ggplot2")
 library(dplyr)
 library(googlesheets)
 library(gapminder)
