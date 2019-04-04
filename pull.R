@@ -7,6 +7,7 @@
 #install.packages("readxl")
 #install.packages("XLConnect")
 library(dplyr)
+library(tidyr)
 library(googlesheets)
 library(gapminder)
 library(ggplot2)
