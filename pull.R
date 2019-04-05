@@ -8,6 +8,7 @@
 #install.packages("XLConnect")
 library(dplyr)
 library(tidyr)
+library(stringr)
 library(googlesheets)
 library(gapminder)
 library(ggplot2)
